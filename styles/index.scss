@@ -1,0 +1,21 @@
+@import 'variables.scss';
+@import 'breakpoints';
+@import 'price-card';
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  font-family: Montserrat, sans-serif;
+  color: $text-color;
+}
+
+.page {
+  display: flex;
+  padding: 115px 132px;
+  width: 1440px;
+  height: 1000px;
+  background-color: $color-page;
+}
