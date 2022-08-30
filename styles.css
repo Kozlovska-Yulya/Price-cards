@@ -1,7 +1,6 @@
 .price-card {
   display: flex;
   flex-direction: column;
-  padding: 33px 0 40px;
   width: 380px;
   height: 770px;
   background-color: #334247;
@@ -30,6 +29,7 @@
   line-height: 43px;
   font-weight: 700;
   margin: 0;
+  margin-top: 33px;
   text-align: center;
 }
 .price-card__subtitle {
@@ -80,13 +80,14 @@
   background-color: rgba(42, 52, 56, 0.5019607843);
 }
 .price-card__order-btn {
-  color: #ffffff;
-  background-color: #5bb189;
-  border-radius: 20px;
-  border: none;
-  padding: 0;
   width: 154px;
   height: 40px;
+  padding: 0;
+  border-radius: 20px;
+  border: none;
+  background-color: #5bb189;
+  color: #ffffff;
+  font-weight: 400;
   font-size: 14px;
   line-height: 17px;
   text-align: center;

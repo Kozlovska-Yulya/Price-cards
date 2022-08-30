@@ -1,7 +1,6 @@
 .price-card {
   display: flex;
   flex-direction: column;
-  padding: 33px 0 40px;
   width: 380px;
   height: 770px;
   background-color: $background-color-card;
@@ -32,6 +31,7 @@
     line-height: 43px;
     font-weight: 700;
     margin: 0;
+    margin-top: 33px;
     text-align: center;
   }
 
@@ -91,13 +91,14 @@
   }
 
   &__order-btn {
-    color: $text-color;
-    background-color: $color-green;
-    border-radius: 20px;
-    border: none;
-    padding: 0;
     width: 154px;
     height: 40px;
+    padding: 0;
+    border-radius: 20px;
+    border: none;
+    background-color: $color-green;
+    color: $text-color;
+    font-weight: 400;
     font-size: 14px;
     line-height: 17px;
     text-align: center;
