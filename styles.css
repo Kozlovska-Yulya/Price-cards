@@ -136,6 +136,8 @@ html {
 
 .page {
   display: flex;
+  align-items: center;
+  justify-content: center;
   padding: 132px;
   width: 1440px;
   background-color: #141b1c;
