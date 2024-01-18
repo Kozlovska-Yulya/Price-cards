@@ -1,4 +1,4 @@
-PROJECT. PRICE-CARDS
+# PROJECT. PRICE-CARDS
 
 [Site link](https://price-cards-3.netlify.app/)
 
@@ -16,7 +16,3 @@ Author:
 Kozlovska Yuliia
 Gmail: kozlovskayayulya2@gmail.com
 Facebook link: https://www.facebook.com/profile.php?id=100012453605455
-
-```
-
-```
