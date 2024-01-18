@@ -1,9 +1,9 @@
-Project. Price-cards
+PROJECT. PRICE-CARDS
 
 [Site link](https://price-cards-3.netlify.app/)
 
 Description:
-Цей проект включає адаптивну веб-сторінку, стилізовану за допомогою SASS і організовану за методологією БЕМ.
+This project includes a responsive web site, styled using SASS and organized using the BEM methodology.
 
 The tech stack is:
 
@@ -12,16 +12,11 @@ The tech stack is:
 - SASS (SCSS)
 - BEM methodology
 
-Installation:
-
-Клонуйте репозиторій:
-
-```bash
-• git clone https://github.com/Kozlovska-Yulya/Project.Price-cards
-
 Author:
 Kozlovska Yuliia
 Gmail: kozlovskayayulya2@gmail.com
 Facebook link: https://www.facebook.com/profile.php?id=100012453605455
+
+```
 
 ```
