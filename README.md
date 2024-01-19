@@ -13,7 +13,6 @@ The tech stack is:
 - BEM methodology
 
 Author:
-
-Kozlovska Yuliia
-Gmail: kozlovskayayulya2@gmail.com
+Kozlovska Yuliia,
+Gmail: kozlovskayayulya2@gmail.com,
 Facebook link: https://www.facebook.com/profile.php?id=100012453605455
