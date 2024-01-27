@@ -1,6 +1,6 @@
 # PROJECT. PRICE-CARDS
 
-[Site link](https://price-cards-3.netlify.app/)
+[Price-cards](https://price-cards-3.netlify.app/)
 
 Description:
 This project includes a responsive web site, styled using SASS and organized using the BEM methodology.
