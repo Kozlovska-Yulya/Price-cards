@@ -34,12 +34,17 @@
 .price-card {
   display: flex;
   flex-direction: column;
-  width: 380px;
+  max-width: 380px;
   height: 770px;
   background-color: #334247;
-  box-shadow: #334247;
+  box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.087466);
   position: relative;
+}
+.price-card__blue {
   overflow: hidden;
+  margin-left: 18px;
+}
+.price-card__orange {
   margin-left: 18px;
 }
 .price-card__title {

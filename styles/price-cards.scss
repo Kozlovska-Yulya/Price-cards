@@ -34,13 +34,20 @@
 .price-card {
   display: flex;
   flex-direction: column;
-  width: 380px;
+  max-width: 380px;
   height: 770px;
   background-color: $background-color-card;
-  box-shadow: #334247;
+  box-shadow: 0px 6px 6px rgba(0, 0, 0, 0.087466);
   position: relative;
-  overflow: hidden;
-  margin-left: 18px;
+
+  &__blue {
+    overflow: hidden;
+    margin-left: 18px;
+  }
+
+  &__orange {
+    margin-left: 18px;
+  }
 
   &__title {
     font-size: 35px;
