@@ -109,10 +109,10 @@
       display: flex;
       align-items: center;
     }
+  }
 
-    &__item:nth-child(odd) {
-      background-color: $background-color-list;
-    }
+  .options-list__item:nth-child(odd) {
+    background-color: $background-color-list;
   }
 
   .price-card__order-btn {
