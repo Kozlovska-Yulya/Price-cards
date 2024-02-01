@@ -31,10 +31,6 @@
   background-image: url('https://gromcode.s3.eu-central-1.amazonaws.com/front-end/html-css/lesson+25/verification-checkmark-symbol_orange.png');
 }
 
-.options-list__item:nth-child(odd) {
-  background-color: $background-color-list;
-}
-
 .price-card {
   display: flex;
   flex-direction: column;
@@ -112,6 +108,10 @@
       height: 50px;
       display: flex;
       align-items: center;
+    }
+
+    .options-list__item:nth-child(odd) {
+      background-color: $background-color-list;
     }
   }
 
